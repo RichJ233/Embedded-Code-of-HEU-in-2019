@@ -1,0 +1,16 @@
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+gyro(f4_v1.0)\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gyro(f4_v1.0)\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+gyro(f4_v1.0)\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+gyro(f4_v1.0)\timers.o: ../Inc/FreeRTOSConfig.h
+gyro(f4_v1.0)\timers.o: ../Inc/main.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+gyro(f4_v1.0)\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
